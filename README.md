@@ -2,7 +2,7 @@
 
 Electrical engineering student at Columbia (CS minor, May 2027). I build AI products, and the circuits underneath.
 
-🌐 **[michellemai122.github.io](https://michellemai122.github.io)** · [LinkedIn](https://www.linkedin.com/in/michellehmai) · [Substack](https://michellehoangmai.substack.com)
+🌐 **[michellemai.org](https://michellemai.org)** · [LinkedIn](https://www.linkedin.com/in/michellehmai) · [Substack](https://michellehoangmai.substack.com)
 
 **What I'm building**
 - **[Gable](https://gable-one.vercel.app)**: AI home search for New York (Columbia Startup Studio, with Lookman Mustapha and Sam Hearst)
